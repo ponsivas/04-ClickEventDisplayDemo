@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">J4_TwoEditTextOneButton</string>
+    <string name="clear">CLEAR</string>
+    <string name="enter_the_text_in_first_box_and_click">Enter the text in first box and Click</string>
+    <string name="enter_text_here">Enter Text Here...</string>
+    <string name="click">CLICK</string>
+    <string name="display_result">DIsplay Result</string>
+    <string name="dr_p_sivaram">Dr.P.Sivaram</string>
+</resources>
